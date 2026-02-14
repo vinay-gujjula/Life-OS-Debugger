@@ -1,0 +1,5 @@
+{
+  "name": "Life OS Debugger",
+  "description": "A neutral diagnostic AI that analyzes internal contradictions and generates a structured bug report for your life's operating system.",
+  "requestFramePermissions": []
+}
